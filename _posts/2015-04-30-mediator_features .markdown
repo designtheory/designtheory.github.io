@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "WELCOME TO DESIGN THEORY"
+title:  "HOW A BOOK WRITTEN IN THE SUMMER OF 45 BC SAVED DESIGNERS TIME"
 date:   2015-04-30
 categories: Welcome
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 
-#How a book written in the summer of 45 BC saved designers time
+What is lorem ipsum?
