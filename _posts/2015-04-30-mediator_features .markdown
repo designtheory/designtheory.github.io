@@ -15,7 +15,7 @@ as they need not write up text for their designs and can easily generate lorem i
 
 But how do computers generate these words?
 
-Well there are various easy methods for a programmer to create an algorithm that can generate randm words, but 
+Well there are various easy methods for a programmer to create an algorithm that can generate random words, but 
 they didnt look natural enough for the eye to look like an article. The Solution was easy, take an article from a book,
 jumble them and there you go, you get natural looking senseless paragraph that can be used and yes! thats what they did.
 The book they used was written in 45BC by a roman philosopher named Marcus Tullius Cicero. He wrote a book called 
