@@ -6,7 +6,7 @@ categories: Welcome
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
-
+![Marcus] (/designtheory/designtheory.github.io/blob/master/assets/images/2015-04-30-mediator_features/marcelo_cicero.jpg)
 What is lorem ipsum?
 
 They are nothing but random,jumbled,unpronounceable words arranged in paragraphs to fake an actual article.The main purpose of
