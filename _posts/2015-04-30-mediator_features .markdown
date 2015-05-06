@@ -23,4 +23,4 @@ De finibus bonorum et malorum ("On the ends of good and evil"). Lorem ipsum is d
 on hedonism. 
 
 #images
-![Image of Marcus] (https:/designtheory.github.io/assets/images/2015-04-30-mediator_features/images/marcelo_cicero.jpg)
+![Image of Marcus] (http://upload.wikimedia.org/wikipedia/commons/4/41/Cicero.PNG)
