@@ -22,4 +22,3 @@ The book they used was written in 45BC by a roman philosopher named Marcus Tulli
 De finibus bonorum et malorum ("On the ends of good and evil"). Lorem ipsum is derived from parts of his books discourse
 on hedonism. 
 
-<img src="http://stephboreldesign.com/wp-content/uploads/2012/03/lorem-ipsum-logo.jpg" alt="Smiley face" height="200" width="200">
