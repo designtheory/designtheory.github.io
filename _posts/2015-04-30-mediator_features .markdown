@@ -33,7 +33,7 @@ image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 
 <p>
 
-<h1> What is lorem ipsum? <h1>
+ <b> What is lorem ipsum? <b>
 
 <br>
 
