@@ -7,7 +7,7 @@ tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 
-What is lorem ipsum?
+<p>What is lorem ipsum?
 
 They are nothing but random,jumbled,unpronounceable words arranged in paragraphs to fake an actual article.The main purpose of
 using lorem ipsum is to focus more on the graphic element rather than the text. It also saves a lot of time for designers 
@@ -20,5 +20,6 @@ they didnt look natural enough for the eye to look like an article. The Solution
 jumble them and there you go, you get natural looking senseless paragraph that can be used and yes! thats what they did.
 The book they used was written in 45BC by a roman philosopher named Marcus Tullius Cicero. He wrote a book called 
 De finibus bonorum et malorum ("On the ends of good and evil"). Lorem ipsum is derived from parts of his books discourse
-on hedonism. 
+on hedonism. <p>
 
+<img src="http://content.wallpapers-room.com/presentationBig/Lorem_Ipsum_by_flugeiden.jpg" alt="lorem ipsum">
