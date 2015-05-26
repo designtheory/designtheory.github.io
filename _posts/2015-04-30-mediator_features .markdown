@@ -28,18 +28,14 @@ image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
-<p>What is lorem ipsum?
+
+<p>
+
+<h1> What is lorem ipsum? <h1>
+
+<br>
 
 They are nothing but random,jumbled,unpronounceable words arranged in paragraphs to fake an actual article.The main purpose of
 using lorem ipsum is to focus more on the graphic element rather than the text. It also saves a lot of time for designers 
